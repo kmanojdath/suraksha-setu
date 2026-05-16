@@ -1,12 +1,3 @@
----
-title: SurakshaSetu - AP Flood Alert
-colorFrom: blue
-colorTo: yellow
-sdk: gradio
-sdk_version: 5.29.0
-app_file: app.py
-pinned: false
----
 
 ## Live Demo & Code
 
